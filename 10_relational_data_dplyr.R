@@ -106,3 +106,4 @@ flights %>%
   semi_join(top_dest) %>% 
   slice_head(n = 100) %>% 
   View
+
