@@ -4,3 +4,7 @@
 ###############
 
 library(tidyverse)
+
+# 1 代码执行
+# 2 RStudio自动化诊断功能
+
